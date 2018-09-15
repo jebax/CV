@@ -35,7 +35,7 @@ Managed data of NHS Diabetes Prevention Programme patients, scheduled appointmen
 *Founder/Event Organiser/Event Promoter (self-employed)*  
 Implementation and management of a highly successful regular club event while in full-time education at the University of Oxford. Communicated and negotiated with artists and venue owners; devised and executed digital promotional strategies; and oversaw marketing campaigns and event logistics.
 
-**Loreto Sixth Form College, Manchester** (January 2014 to April 2014)
+**Loreto Sixth Form College, Manchester** (January 2014 to April 2014)  
 *Teaching Assistant, Department of Music Technology*  
 Assisting students and staff with the completion of AS and A Level music technology coursework, in both the classroom and the recording studio. Gave technical advice to students and oversaw coursework submissions.
 
