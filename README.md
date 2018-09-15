@@ -4,7 +4,7 @@
 
 I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my obsession with tech from the personal to the professional, and kickstarting my career as a full stack developer.
 
-I’m fast at learning new technologies and concepts, as shown in my experience working with ICS Health & Wellbeing; learning to code at Makers is now giving me the opportunity to apply this skill to understanding the vast and fascinating world of software. While my coding knowledge is still in its early stages, I'm already incredibly excited to join a brilliant team of like-minded developers, so that I can continue my development and apply my newfound knowledge.
+I’m fast and efficient when it comes to learning new technologies and concepts, as shown in my experience working with ICS Health & Wellbeing; learning to code at Makers is now giving me the opportunity to apply this skill to understanding the vast and fascinating world of software. While my coding knowledge is still in its early stages, I'm already incredibly excited to join a brilliant team of like-minded developers, so that I can continue my development and apply my newfound knowledge.
 
 ## Skills
 
