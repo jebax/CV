@@ -27,8 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
-### Learning to Code
-#### Makers Academy (October 2018 to December 2018)
+### Makers Academy (October 2018 to December 2018)
 
 Selective and intense 16-week dev bootcamp, focusing on teaching best practices and how to craft beautiful code. Key skills include:
 
@@ -46,9 +45,17 @@ Personal focuses:
 * Spaces and technologies in experimental electronic music
 * Dissertation on rhythm and technology in early Chicago acid house
 
-#### Other qualifications
+### Other qualifications
+#### A Levels - Loreto Sixth Form College (September 2011 to July 2013)
+* Mathematics - A
+* Physics - A
+* Music - A
+* General Studies - A*
 
-##### Trinity Guildhall 
+#### GCSEs - Chorlton High School (September 2006 to July 2011)
+* 8 A*'s, 2 A's
+
+##### Trinity Guildhall Drum Kit - Grade 8 Distinction (Awarded 2012)
 
 ## Experience
 
@@ -56,3 +63,7 @@ Personal focuses:
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+
+
+
