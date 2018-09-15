@@ -4,9 +4,9 @@
 
 #### Profile
 
-I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my personal obsession with tech into a professional one, and kickstarting my career as a full stack developer.
+I'm an Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my personal obsession with tech into a professional one.
 
-As shown in my experience working as a diabetes Patient Coordinator, I’m fast and efficient when it comes to learning new technologies and concepts; learning to code at Makers is now giving me the opportunity to apply this skill to understanding the vast and fascinating world of software. While my coding knowledge is still in its early stages, I'm already incredibly excited to join a team of brilliant developers, so that I can continue my development and apply my newfound knowledge.
+After a year of teaching myself Ruby while working as a diabetes Patient Coordinator, I applied to Makers because I had a desire to learn so much more. I'm fuelled by knowledge, both the gaining and imparting of it, and I can't wait to apply my skills in analysis and delivery to the exciting projects and potential future roles that this life change has let me explore. I'm looking for a role that will give me the opportunity to extend my programming knowledge, work with a brilliant team, and become that bit better each day. 
 
 ## Skills<a name="skills"></a>
 
