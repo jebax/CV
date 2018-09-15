@@ -4,7 +4,7 @@
 
 #### Profile
 
-I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my personal obsession with software and computers into a professional one.
+I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my personal obsession with software and machines into a professional one.
 
 After a year of teaching myself Ruby while working as a diabetes Patient Coordinator, I applied to Makers because I had a desire to learn so much more. I'm fuelled by knowledge, both the gaining and imparting of it, and I can't wait to apply my skills in analysis and delivery to the exciting projects and potential future roles that this life change has let me explore. I'm looking for a role that will give me the opportunity to extend my programming knowledge, work with a brilliant team, and become that bit better each day. 
 
