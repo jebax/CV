@@ -28,18 +28,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **ICS Health & Wellbeing** (via Office Angels Leeds) (September 2017 to June 2018)    
-*Patient Coordinator*
-
+*Patient Coordinator*  
 Managed data of NHS Diabetes Prevention Programme patients, scheduled appointments and group meetings, and assisted with the introduction of a new patient data management system. Joined on a 12-week temporary contract, but stayed for 9 months due to my contributions to the team.
 
 ***Disco Ma Non Troppo*** (February 2015 to June 2018)   
-*Founder/Event Organiser/Event Promoter (self-employed)*
-
+*Founder/Event Organiser/Event Promoter (self-employed)*  
 Implementation and management of a highly successful regular club event while in full-time education at the University of Oxford. Communication and negotiation with artists and venue owners; devising and executing digital promotional strategies; overseeing marketing campaigns and event logistics.
 
 **Loreto Sixth Form College, Manchester** (January 2014 to April 2014)
-*Teaching Assistant, Department of Music Technology*
-
+*Teaching Assistant, Department of Music Technology*  
 Assisting students and staff with the completion of AS and A Level music technology coursework, in both the classroom and the recording studio. Gave technical advice to students and oversaw coursework submissions.
 
 ## Education
