@@ -33,7 +33,7 @@ Managed data of NHS Diabetes Prevention Programme patients, scheduled appointmen
 
 ***Disco Ma Non Troppo*** (February 2015 to June 2018)   
 *Founder/Event Organiser/Event Promoter (self-employed)*  
-Implementation and management of a highly successful regular club event while in full-time education at the University of Oxford. Communication and negotiation with artists and venue owners; devising and executing digital promotional strategies; overseeing marketing campaigns and event logistics.
+Implementation and management of a highly successful regular club event while in full-time education at the University of Oxford. Communicated and negotiated with artists and venue owners; devised and executed digital promotional strategies; and oversaw marketing campaigns and event logistics.
 
 **Loreto Sixth Form College, Manchester** (January 2014 to April 2014)
 *Teaching Assistant, Department of Music Technology*  
