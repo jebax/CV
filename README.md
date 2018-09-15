@@ -1,12 +1,14 @@
 ## Joel Baxter
 
+[Skills](#skills) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
+
 #### Profile
 
 I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally transmuting my personal obsession with tech into a professional one, and kickstarting my career as a full stack developer.
 
 As shown in my experience working as a diabetes Patient Coordinator, I’m fast and efficient when it comes to learning new technologies and concepts; learning to code at Makers is now giving me the opportunity to apply this skill to understanding the vast and fascinating world of software. While my coding knowledge is still in its early stages, I'm already incredibly excited to join a brilliant team of like-minded developers, so that I can continue my development and apply my newfound knowledge.
 
-## Skills
+## Skills<a name="skills"></a>
 
 #### This Skill
 
@@ -25,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Experience
+## Experience<a name="experience"></a>
 
 **ICS Health & Wellbeing** (via Office Angels Leeds) (September 2017 to June 2018)    
 *Patient Coordinator*  
@@ -39,7 +41,7 @@ Implementation and management of a highly successful regular club event while in
 *Teaching Assistant, Department of Music Technology*  
 Assisting students and staff with the completion of AS and A Level music technology coursework, in both the classroom and the recording studio. Gave technical advice to students and oversaw coursework submissions.
 
-## Education
+## Education<a name="education"></a>
 ### Makers Academy (October 2018 to December 2018)
 
 Selective and intense 16-week dev bootcamp, focusing on teaching best practices and how to craft beautiful code. Key skills include:
@@ -70,6 +72,6 @@ Personal focuses:
 
 ##### Trinity Guildhall Drum Kit - Grade 8 Distinction (Awarded 2012)
 
-## Interests
+## Interests<a name="interests"></a>
 
 I'm an experienced drummer (still looking for somewhere to live that will let me play without annoying everyone nearby), and a keen DJ and record collector in my spare time. I'm also a recent convert to hiking as I can't get enough of amazing scenery.
