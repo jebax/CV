@@ -4,13 +4,13 @@
 
 #### Profile
 
-I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally transmuting my personal obsession with tech into a professional one, and kickstarting my career as a full stack developer.
+I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my personal obsession with tech into a professional one, and kickstarting my career as a full stack developer.
 
-As shown in my experience working as a diabetes Patient Coordinator, I’m fast and efficient when it comes to learning new technologies and concepts; learning to code at Makers is now giving me the opportunity to apply this skill to understanding the vast and fascinating world of software. While my coding knowledge is still in its early stages, I'm already incredibly excited to join a brilliant team of like-minded developers, so that I can continue my development and apply my newfound knowledge.
+As shown in my experience working as a diabetes Patient Coordinator, I’m fast and efficient when it comes to learning new technologies and concepts; learning to code at Makers is now giving me the opportunity to apply this skill to understanding the vast and fascinating world of software. While my coding knowledge is still in its early stages, I'm already incredibly excited to join a team of brilliant developers, so that I can continue my development and apply my newfound knowledge.
 
 ## Skills<a name="skills"></a>
 
-#### This Skill
+#### Analysis
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -18,14 +18,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Knowledge Acquisition & Training
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+One of my standout skills is being able to pick up new concepts at high speed, and then distill large amounts of information into its crucial elements with a view to helping others.  
+This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new systems for storing and retrieving data, potentially resulting in low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others, and therefore help us regain our momentum and stay on top of patients' needs. Since starting my learning at Makers Academy, I have been similarly helping others with concepts that I have got to grips with quickly, and look forward to mentoring students in later cohorts.
 
 ## Experience<a name="experience"></a>
 
