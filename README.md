@@ -6,22 +6,21 @@
 
 I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my personal obsession with software and machines into a professional one.
 
-After a year of teaching myself Ruby while working as a diabetes Patient Coordinator, I applied to Makers because I had a desire to learn so much more. I'm fuelled by knowledge, both the gaining and imparting of it, and I can't wait to apply my skills in analysis and delivery to the exciting projects and potential future roles that this life change has let me explore. I'm looking for a role that will give me the opportunity to extend my programming knowledge, work with a brilliant team, and become that bit better each day. 
+After a year of teaching myself Ruby while working as a diabetes Patient Coordinator, I applied to Makers because I had a desire to learn so much more. I'm fuelled by knowledge, both the gaining and imparting of it, and I can't wait to apply my skills in analysis and delivery to the exciting projects and potential future roles that this life change has let me explore. I'm looking for a role that will give me the opportunity to extend my programming knowledge and work with a brilliant team of like-minded developers.
 
 ## Skills<a name="skills"></a>
 
 #### Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
 
 #### Knowledge Acquisition & Training
 
-One of my standout skills is being able to pick up new concepts at high speed, and then distill large amounts of information into its crucial elements with a view to helping others.  
-This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new systems for storing and retrieving data, potentially resulting in low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others, and therefore help us regain our momentum and stay on top of patients' needs. Since starting my learning at Makers Academy, I have been similarly helping others with concepts that I have got to grips with quickly, and look forward to mentoring students in later cohorts.
+One of my standout skills is being able to pick up new concepts at high speed, and then distill large amounts of information into its crucial elements with a view to helping others. This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new systems for storing and retrieving data, potentially resulting in low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others, and therefore help us regain our momentum and stay on top of patients' needs. 
+
+#### Delivery
+
+My ability to work under pressure and delivery results to tight deadlines is particularly strong, and was tested during the second term of my final year of study at the University of Oxford. I took the lead on organising a *Disco Ma Non Troppo* event (see below), all while completing 2 essays per week on my history topics and finishing my dissertation. I managed this intense workload by devising a strict timetable for work and event management, which split up my time efficiently, and by allocating smaller tasks for the event to the others that I organised it with. This efficient work schedule allowed me to balance these two areas of work successfully - my dissertation was one of the highest marked in my year, and the event was completely sold out with 660 tickets sold.
 
 ## Experience<a name="experience"></a>
 
