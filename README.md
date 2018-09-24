@@ -16,7 +16,7 @@ After a year of teaching myself Ruby while working as a diabetes Patient Coordin
 
 #### Knowledge Acquisition & Training
 
-One of my standout skills is being able to pick up new concepts at high speed, and then distill large amounts of information into its crucial elements with a view to helping others. This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new systems for storing and retrieving data, potentially resulting in low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others, and therefore help us regain our momentum and stay on top of patients' needs. 
+One of my standout skills is being able to pick up new concepts at high speed, and then distill large amounts of information into its crucial elements with a view to helping others. This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new systems for storing and retrieving data, potentially resulting in low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others. My time spent training other colleagues helped us to regain our momentum as a team and stay on top of patients' needs. 
 
 #### Delivery
 
