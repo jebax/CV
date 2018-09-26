@@ -26,7 +26,7 @@ One of my standout skills is picking up new concepts at high speed, and then dis
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| FizzBuzz!     | Our first pairing exercise, completed during the Makers Academy PreCourse.      | Ruby      | Rspec
+| [FizzBuzz](https://github.com/jebax/fizzbuzz)     | Our first pairing exercise, completed during the Makers Academy PreCourse.      | Ruby      | Rspec
 
 ## Experience<a name="experience"></a>
 
