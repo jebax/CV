@@ -12,21 +12,21 @@ After a year of teaching myself Ruby while working as a diabetes Patient Coordin
 
 #### Analysis
 
-
-
-#### Knowledge Acquisition & Training
-
-One of my standout skills is being able to pick up new concepts at high speed, and then distill large amounts of information into its crucial elements with a view to helping others. This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new systems for storing and retrieving data, potentially resulting in low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others. My time spent training other colleagues helped us to regain our momentum as a team and stay on top of patients' needs. 
+Drawing connections, spotting patterns, and isolating routes for problem solving are some of my strongest personal assets. For example, there was a strong focus on analysis in my course at the University of Oxford, and my skills in this field meant that I would often lead discussions and provide the most input during our analysis tutorials. Additionally, when I was working as a diabetes Patient Coordinator, a new system for patient data management was introduced without being fully completed. The live system was therefore rather basic, and the software had a large number of bugs. Despite not working on the data team, my day-to-day contact with this system, combined with my ability to isolate the steps required to recreate these bugs, meant that I became a key asset to the data team in identifying root causes of these issues. My assistance in this field lead to the swift resolution of many of the bugs, and the system then became fully operational within two weeks.
 
 #### Delivery
 
-My ability to work under pressure and delivery results to tight deadlines is particularly strong, and was tested during the second term of my final year of study at the University of Oxford. I took the lead on organising a *Disco Ma Non Troppo* event (see below), all while completing 2 essays per week on my history topics and finishing my dissertation. I managed this intense workload by devising a strict timetable for work and event management, which split up my time efficiently, and by allocating smaller tasks for the event to the others that I organised it with. This efficient work schedule allowed me to balance these two areas of work successfully - my dissertation was one of the highest marked in my year, and the event was completely sold out with 660 tickets sold.
+My ability to work under pressure and deliver excellent results to tight deadlines is particularly strong, and was tested during the second term of my final year of study at university. I took the lead on organising a *Disco Ma Non Troppo* event (see below), all while completing 2 essays per week on my history topics and finishing my dissertation. I managed this intense workload by devising a strict timetable for work and event management, which split up my time efficiently, and by allocating smaller tasks for the event to the others that I organised it with. This efficient work schedule allowed me to balance these two areas of work successfully - my dissertation was one of the highest marked in my year, and the event was a complete sell-out with 660 tickets sold.
+
+#### Knowledge Acquisition & Training
+
+One of my standout skills is picking up new concepts at high speed, and then distilling large amounts of information into its crucial elements, with a view to helping others. This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new methods for storing, sorting, and retrieving data, resulting in temporary low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others. My time spent training other colleagues helped us to regain our momentum as a team and stay on top of patients' needs. 
 
 ## Experience<a name="experience"></a>
 
 **ICS Health & Wellbeing** (via Office Angels Leeds) (September 2017 to June 2018)    
 *Patient Coordinator*  
-Managed data of NHS Diabetes Prevention Programme patients, scheduled appointments and group meetings, and assisted with the introduction of a new patient data management system. Joined on a 12-week temporary contract, but stayed for 9 months due to my contributions to the team.
+Managed data of NHS Diabetes Prevention Programme patients, and scheduled appointments and classes for 7000+ patients. Joined on a 12-week temporary contract, but stayed for 9 months due to my contributions to the team.
 
 ***Disco Ma Non Troppo*** (February 2015 to June 2018)   
 *Founder/Event Organiser/Event Promoter (self-employed)*  
