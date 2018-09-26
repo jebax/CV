@@ -4,15 +4,15 @@
 
 #### Profile
 
-I'm a former Oxford music student who's taken the plunge: abandoning academia in favour of learning to code at Makers Academy. I'm now finally translating my personal obsession with software and machines into a professional one.
+I'm a former Oxford music student who's taken the plunge: abandoning academia to learn code at Makers Academy. I'm finally translating my personal obsession with software and machines into a professional one.
 
-After a year of teaching myself Ruby while working as a diabetes Patient Coordinator, I applied to Makers because I had a desire to learn so much more. I'm fuelled by knowledge, both the gaining and imparting of it, and I can't wait to apply my skills in analysis and delivery to the exciting projects and potential future roles that this life change has let me explore. I'm looking for a role that will give me the opportunity to extend my programming knowledge and work with a brilliant team of like-minded developers.
+After a year of teaching myself to code while working as a diabetes Patient Coordinator, I applied to Makers because I'm fuelled by knowledge, and I had a desire to learn so much more. I'm now interested in a role that will give me the opportunity to extend my programming knowledge, work with a brilliant team of like-minded developers, and become part of the future.
 
 ## Skills<a name="skills"></a>
 
 #### Analysis
 
-Drawing connections, spotting patterns, and isolating routes for problem solving are some of my strongest personal assets. For example, there was a strong focus on analysis in my course at the University of Oxford, and my skills in this field meant that I would often lead discussions and provide the most input during our analysis tutorials. Additionally, when I was working as a diabetes Patient Coordinator, a new system for patient data management was introduced without being fully completed. The live system was therefore rather basic, and the software had a large number of bugs. Despite not working on the data team, my day-to-day contact with this system, combined with my ability to isolate the steps required to recreate these bugs, meant that I became a key asset to the data team in identifying root causes of these issues. My assistance in this field lead to the swift resolution of many of the bugs, and the system then became fully operational within two weeks.
+Drawing connections, spotting patterns, and isolating routes for problem solving are some of my strongest personal assets. When I was working as a diabetes Patient Coordinator, a new system for patient data management was introduced without being fully completed. The live system was therefore rather basic, and the software had a large number of bugs. Despite not working on the data team, my day-to-day contact with this system, combined with my ability to isolate the steps required to recreate these bugs, meant that I became a key asset to the data team in identifying root causes of these issues. My assistance in this field lead to the swift resolution of many of the bugs, and the system then became fully operational within two weeks.
 
 #### Delivery
 
