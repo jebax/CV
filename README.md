@@ -8,11 +8,17 @@
 [Interests ](#interests)
 
 </div>
+
 #### Profile
 
-I'm a former Oxford music student who's taken the plunge: abandoning academia to learn code at Makers Academy. I'm finally translating my personal obsession with software and machines into a professional one.
+I'm a full-stack software engineer and former Oxford music student who took the plunge: abandoning academia to learn how to code at [Makers Academy](https://makers.tech/). My personal obsession with software and machines is finally becoming a professional one. Fascinated by clean code, efficient collaboration, new technologies, and above all new knowledge. 
 
-After a year of teaching myself to code while working as a diabetes Patient Coordinator, I applied to Makers because I'm fuelled by knowledge, and I had a desire to learn so much more. I'm now interested in a role that will give me the opportunity to extend my programming knowledge, work with a brilliant team of like-minded developers, and become part of the future.
+## Projects<a name="projects"></a>    
+
+| Title | Description | Development Timeframe | Technologies | Testing |
+|--|--|--|--|--|
+| [The Shallot](https://github.com/jebax/TheShallotSummary) | With only a weekend to create a front-end, single-page app, and with zero frameworks allowed on top of pure JS, I created my own testing framework to test drive The Shallot - an unoriginally named news summary app with unoriginal content (but the code is nice). | 3 days | JavaScript, HTML/CSS | Custom framework |
+| [AceBook](https://github.com/chloeverity/acebook-breakfast-club) | This Facebook clone was created in 2 weeks while we learned Rails for the very first time. My first opportunity to use fully developed Agile principles in a time pressured environment. | 10 days | Rails, CoffeeScript, JQuery, PostgreSQL, HTML/CSS (Bootstrap), AWS EB | RSpec, Capybara, Selenium Webdriver  |
 
 ## Skills<a name="skills"></a>
 
@@ -27,12 +33,6 @@ My ability to work under pressure and deliver excellent results to tight deadlin
 #### Knowledge Acquisition & Training
 
 One of my standout skills is picking up new concepts at high speed, and then distilling large amounts of information into its crucial elements, with a view to helping others. This became particularly useful during my time as a diabetes Patient Coordinator. The deployment of a new patient data management system left many of my colleagues struggling to keep up with new methods for storing, sorting, and retrieving data, resulting in temporary low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, which gave me the opportunity to train and assist others. My time spent training other colleagues helped us to regain our momentum as a team and stay on top of patients' needs. 
-
-## Projects<a name="projects"></a>
-
-| Name                       | Description                                                                   | Technologies                     |  Testing                           |
-| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [FizzBuzz!](https://github.com/jebax/fizzbuzz)     | Our first pairing exercise, completed during the Makers Academy PreCourse.      | Ruby      | Rspec
 
 ## Experience<a name="experience"></a>
 
