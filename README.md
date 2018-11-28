@@ -1,7 +1,13 @@
-## Joel Baxter
+## <h1 align='center'> Joel Baxter </h1>
+<div align="center">
+    
+[Projects ](#projects) | 
+[Skills ](#skills) | 
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests)
 
-[Skills](#skills) || [Projects](#projects) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
-
+</div>
 #### Profile
 
 I'm a former Oxford music student who's taken the plunge: abandoning academia to learn code at Makers Academy. I'm finally translating my personal obsession with software and machines into a professional one.
