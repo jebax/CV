@@ -18,7 +18,7 @@ I'm a full-stack software engineer and former Oxford music student who took the 
 | Title | Description | Development Timeframe | Technologies | Testing |
 |--|--|--|--|--|
 | [The Shallot](https://github.com/jebax/TheShallotSummary) | With only a weekend to create a front-end, single-page app, and with zero frameworks allowed on top of pure JS, I created my own testing framework to test drive The Shallot - an unoriginally named news summary app with unoriginal content (but the code is nice). | 3 days | JavaScript, HTML/CSS | Custom framework |
-| [AceBook](https://github.com/chloeverity/acebook-breakfast-club) | This Facebook clone was created in 2 weeks while we learned Rails for the very first time. My first opportunity to use fully developed Agile principles in a time pressured environment. | 10 days | Ruby on Rails, CoffeeScript, JQuery, PostgreSQL, HTML/CSS (Bootstrap), AWS EB | RSpec, Capybara, Selenium Webdriver  |
+| [AceBook](https://github.com/chloeverity/acebook-breakfast-club) | This Facebook clone was created in 2 weeks while we learned Rails for the very first time. My first opportunity to use fully realised XP and Scrum principles in a time pressured environment. | 10 days | Ruby on Rails, CoffeeScript, JQuery, PostgreSQL, HTML/CSS (Bootstrap), AWS EB | RSpec, Capybara, Selenium Webdriver  |
 
 ## Skills<a name="skills"></a>
 
