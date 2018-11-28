@@ -30,7 +30,7 @@ Studying at Makers left me with a desire to write beautifully crafted code. I ta
 
 Drawing connections, spotting patterns, and isolating routes for problem solving are some of my strongest personal assets. While at Makers, these skils translated into sharp debugging abilities, and I was often the go-to student in my cohort for debugging assistance. During the [AceBook](https://github.com/chloeverity/acebook-breakfast-club) project we had a persistent bug with parameter submission while attempting to implement live chat functionality. With time running short before the end of our sprint and the deadline for implementation, I was able to isolate and resolve the issue, rooted in an interaction between our CoffeeScript code and our HTML. Definitely one of my most satisfying 'a-ha' moments while coding.
 
-### Knowledge Acquisition & Training
+### Fast Learner
 
 I'm able to pick up new concepts at lightning speed, then distill information into its crucial elements in order to help others. This became particularly useful during my time as a diabetes Patient Coordinator. A newly introduced patient data management system left many of my colleagues struggling to keep up with new methods for storing, sorting, and retrieving data - meaning low productivity and frustrated patients. I got to grips with the new system far ahead of anyone else, giving me the opportunity to train and assist others. My time spent training other colleagues helped us to regain our momentum as a team and stay on top of patients' needs. 
 
